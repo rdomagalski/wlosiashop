@@ -14,3 +14,8 @@ Very basic web shop, Django based
 - Basket
 - Checkout
 - Email notification
+
+## Structure
+* wlosiashop - Project
+* landingpage - App
+* shop - app
